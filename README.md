@@ -1,5 +1,3 @@
-![I am MasudMahamud]
-
 
 <h1 align="center">Hi 👋, I'm Mahmud A Masud</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
