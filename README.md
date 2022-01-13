@@ -45,5 +45,5 @@ Skills: NODE.JS / HEROKU / REACT / JS / HTML / CSS / BOOTSTRAP
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasudMahamud)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MasudMahamud&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md Masud)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md Masud)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md_Masud)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md_Masud)  
