@@ -7,7 +7,7 @@
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
 Knock me: m.facebook.com/mahmud.a.masud0.qcsc
 
-Skills: NODE.JS / HEROKU / REACT / JS / HTML / CSS / BOOTSTRAP
+Skills: NODE.JS / REACT / JS / HTML / CSS / BOOTSTRAP
  
 - 🌱 I’m currently learning **JS,  React**
 
