@@ -4,8 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/MasudMahamud) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
-Knock me: m.facebook.com/mahmud.a.masud0.qcsc
+Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer.
 
 Skills: NODE.JS / REACT / JS / HTML / CSS / BOOTSTRAP
  
