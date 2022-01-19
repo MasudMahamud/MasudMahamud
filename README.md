@@ -41,6 +41,18 @@ Skills: NODE.JS / REACT / JS / HTML / CSS / BOOTSTRAP
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasudMahamud)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MasudMahamud&show_icons=true)
+<p align="center">
+ 
+ <a href="https://github.com/web-shoharab-pk/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MasudMahamud&layout=compact&theme=radical&langs_count=6" />
+  </a>
+  <a href="https://github.com/web-shoharab-pk">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=MasudMahamud&show_icons=true&theme=radical&count_private=true">
+  </a>
+  
+ </p>
+
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Masud&theme=radical&hide_border=true"/>
+</p>
